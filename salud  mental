@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importancia de la Salud Mental</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>La Importancia de la Salud Mental</h1>
+    </header>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Información</a>
+        <a href="#">Contacto</a>
+    </nav>
+
+    <main>
+        <section>
+              <h2>Mensaje positivo</h2>
+    <button onclick="mostrarMensaje()">Haz clic para motivarte</button>
+    <p id="mensaje"></p>
+    </section>
+            <h2>¿Por qué es importante?</h2>
+
+            <img src="https://kioongo.com/blog/wp-content/uploads/2022/12/thumbnail_img_nota_web_Talleres_Salud_Mental.png" alt="Salud mental" class="imagen">
+
+            <p>
+
+                La salud mental influye en cómo pensamos, sentimos y actuamos en nuestra vida diaria.
+                Mantener un buen estado mental nos ayuda a enfrentar el estrés, relacionarnos mejor
+                y tomar decisiones saludables.
+            </p>
+
+            <p>
+                La salud mental se define como un estado de bienestar en el cual el individuo es consciente de sus propias capacidades, puede afrontar las tensiones normales de la vida, puede trabajar 
+                de forma productiva y fructífera y es capaz de hacer una contribución a su comunidad
+            </p>
+        </section>
+
+        <section>
+            <h2>Consejos básicos</h2>
+
+            <img src="https://media.ambito.com/p/5722124cbf84eb28eafb5f2d6af82e1a/adjuntos/239/imagenes/040/218/0040218747/730x0/smart/salud-mentaljpg.jpg" alt="Bienestar emocional" class="imagen">
+
+            <ul>
+                <li>Sueño reparador: Establece un horario regular para dormir, idealmente entre 7 y 8 horas diarias.</li>
+                <li>Alimentación saludable: Consume una dieta balanceada y mantente hidratado para aumentar la energía.</li>
+                <li>Actividad física: Realiza al menos 30 minutos de ejercicio moderado, como caminar, para mejorar el estado de ánimo y reducir el estrés</li>
+                <li>Reconoce tus emociones: Acepta lo que sientes, ya que cada emoción tiene un mensaje.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Salud Mental - Proyecto Final Seminario</p>
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>
